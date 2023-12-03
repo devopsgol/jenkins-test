@@ -10,7 +10,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.0-M3</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<properties>
@@ -103,7 +103,7 @@
 		<dependency>
 			<groupId>org.webjars.npm</groupId>
 			<artifactId>htmx.org</artifactId>
-			<version>1.9.6</version>
+			<version>1.9.8</version>
 			<scope>runtime</scope>
 		</dependency>
 
